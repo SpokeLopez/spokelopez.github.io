@@ -7,6 +7,10 @@ Utilities
 * {
   box-sizing: border-box;
 }
+li{
+  text-align: left;
+  list-style: circle;
+}
 
 .cf::before,
 .cf::after {
