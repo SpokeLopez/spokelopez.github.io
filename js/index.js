@@ -1,5 +1,5 @@
 ////////////////////////////////////
-// NAVIGATION SHOW/HIDE
+// NAVEGACION SHOW/HIDE
 
 $("nav ul").hide();
 
@@ -12,7 +12,7 @@ $("nav ul li a, .brand a").click( function() {
 });
 
 ////////////////////////////////////
-// SMOOTH SCROLLING WITH NAV HEIGHT OFFSET
+
 
 $(function() {
   var navHeight = $("nav").outerHeight();
@@ -45,7 +45,6 @@ $(window).scroll( function() {
 });
 
 ////////////////////////////////////////////////
-// MAKE THE SPLASH CONTAINER VERTICALLY CENTERED
 
 function centerSplash() {
   var navHeight = $("nav").outerHeight();
