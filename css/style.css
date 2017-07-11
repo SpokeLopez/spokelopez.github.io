@@ -7,7 +7,7 @@ Utilities
 }
 li{
   text-align: left;
-  list-style: circle;
+  list-style: unset;
 }
 
 .cf::before,
