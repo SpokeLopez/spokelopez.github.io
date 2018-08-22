@@ -149,6 +149,18 @@ header .banner {
     background: url("../imagenes/casagarcia.png") no-repeat 100%;
     background-size: cover;
 }
+#work-7 {
+    background: url("../imagenes/inscomex.png") no-repeat 100%;
+    background-size: cover;
+}
+#work-8 {
+    background: url("../imagenes/escuela.png") no-repeat 100%;
+    background-size: cover;
+}
+#work-9 {
+    background: url("../imagenes/midas.png") no-repeat 100%;
+    background-size: cover;
+}
 .block::after, .block::before {
     content: '';
     background: rgba(0,0,0,0.6);
