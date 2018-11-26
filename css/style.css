@@ -161,6 +161,10 @@ header .banner {
     background: url("../imagenes/midas.png") no-repeat 100%;
     background-size: cover;
 }
+#work-10 {
+    background: url("../imagenes/biblioteca.png") no-repeat 100%;
+    background-size: cover;
+}
 .block::after, .block::before {
     content: '';
     background: rgba(0,0,0,0.6);
